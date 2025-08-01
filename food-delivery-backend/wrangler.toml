@@ -1,0 +1,8 @@
+name = "food-delivery-backend"
+compatibility_date = "2025-07-31"
+
+main = "src/index.js" 
+[[d1_databases]]
+binding = "DB"
+database_name = "prod-d1"
+database_id = "94a527f1-b84a-4bcd-8f6c-76c3493a92c1"
